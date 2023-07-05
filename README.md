@@ -4,7 +4,7 @@
 [My current projects](https://github.com/emerald6o4?tab=projects) or [what I have published!](https://github.com/emerald6o4?tab=repositories) 
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm [@emerald6o4], a passionate programmer with a deep love for Lua. Lua is a lightweight, versatile, and powerful scripting language that has captured my heart and become an integral part of my coding journey. But not Roblox's Lua, "Luau"
+Welcome to my GitHub profile! I'm [@emerald6o4](https://github.com/emerald6o4/), a passionate programmer with a deep love for Lua. Lua is a lightweight, versatile, and powerful scripting language that has captured my heart and become an integral part of my coding journey. But not Roblox's Lua, "Luau"
 
 ## About Me
 
