@@ -18,7 +18,7 @@ I'm excited to embark on my Lua coding journey and work on meaningful projects. 
 
 ## Contributions
 
-While I haven't made any formal contributions yet, I'm eager to engage with the Lua community and collaborate on exciting projects. If you have any Lua-related initiatives or need assistance, feel free to reach out. Let's learn and grow together!
+[The Programmers Treasure Trove](https://github.com/emerald6o4/The-Programmers-Treasure-Trove)
 
 ## Let's Connect
 
